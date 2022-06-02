@@ -1,3 +1,8 @@
+# Crafter part
+config.json
+etc/**
+!etc/.gitkeep
+
 # Logs
 logs
 *.log

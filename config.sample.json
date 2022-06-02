@@ -1,0 +1,28 @@
+{
+    "version": "1.12.2",
+    "workingPosition": [-235, 65, -381],
+    "craftingTablePosition": [-235, 64, -381],
+    "outputPosition": [-235, 64, -378],
+    "login": {
+        "gapTicks": 60,
+        "sequence": [
+            "Logging in..."
+        ]
+    },
+    "crafting": {
+        "product": "iron_block",
+        "useCraftingTable": true,
+        "materials": {
+            "redstone_torch": [-234, 64, -384],
+            "redstone": [-235, 64, -384],
+            "stone": [-236, 64, -384],
+            "iron_ingot": [-235, 64, -384]
+        }
+    },
+    "chatControl": {
+        "allowOwnersOnly": true,
+        "owners": ["UMRnInside", "wu_xie"],
+        "whisperRegexPatterns": []
+    },
+    "logChats": false
+}
